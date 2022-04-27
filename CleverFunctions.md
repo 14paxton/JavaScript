@@ -6,3 +6,6 @@
 ## Union / Enum for JS
 ### java like enum can be used for pointer type function ex. https://dev.to/avalander/union-types-with-javascript-4emo  
   <a href="https://gist.github.com/14paxton/685637fd8c513c7539a10f66b2386cfe"> Union Example </a> 
+
+## Print 
+  https://github.com/14paxton/printDiv/blob/main/PrintElement.js
