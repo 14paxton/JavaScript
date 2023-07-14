@@ -1,5 +1,3 @@
-# Quick Tips
-
 ## Group and object by key and possible subkey
 
 ### returns {(key to group by) : [{(secondary key) : (key to group by)}]}
